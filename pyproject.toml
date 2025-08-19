@@ -1,0 +1,12 @@
+[project]
+name = "adni2bids"
+version = "0.1.0"
+description = "Converting ADNI DICOMs to NIFTI for BIDS format"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.5",
+    "nilearn>=0.12.0",
+    "numpy>=2.3.2",
+    "scipy>=1.16.1",
+]

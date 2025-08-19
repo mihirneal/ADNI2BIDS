@@ -1,0 +1,15 @@
+BIDS_output/*
+dicom/*
+Nifti/*
+!Nifti/code/
+conversion_logs/*
+*.nii
+*.nii.gz
+*.dcm
+*.dicom
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.venv/
+.claude/

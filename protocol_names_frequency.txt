@@ -1,0 +1,519 @@
+   1148 ASL PERFUSION
+   1012 Accelerated Sagittal MPRAGE
+    952 Sagittal 3D FLAIR
+    893 MPRAGE
+    725 MPRAGE GRAPPA2
+    572 Accelerated Sagittal MPRAGE (MSV21)
+    553 Sagittal 3D FLAIR (MSV22)
+    548 Sagittal 3D T2 SPACE (MSV21)
+    435 ADNI3 Basic Human Protoc
+    420 Axial 2D PASL (EYES OPEN)
+    321 Axial rsfMRI (Eyes Open)
+    286 Axial MB DTI PA (MSV21)
+    283 ADNI2_GE_3T_22.0
+    282 ASL_PERFUSION
+    281 Axial MB rsfMRI (Eyes Open)
+    276 Axial MB DTI AP (MSV21)
+    271 Field Mapping
+    241 ADNI2_GE_3T_22.0_E_DTI
+    237 
+    235 MPRAGE SENSE2 SENSE
+    229 MPRAGE SENSE
+    221 ADNI4 Advanced GE29.1_48
+    216 WIP Field Mapping
+    214 Resting State fMRI
+    212 ADNI2_GE_3T_20.0m4_8cha
+    197 Axial rsfMRI (EYES OPEN)
+    190 ADNI3_Study_Human_GE_3T_
+    185 WIP MPRAGE SENSE2 SENSE
+    180 WIP Resting State fMRI
+    177 WIP MPRAGE SENSE
+    176 ADNI3_GE_3T_24x_12.2016
+    158 AAHead_Scout
+    125 MPRAGE_GRAPPA2
+    122 WIP Axial Field Mapping
+    119 B1-calibration Body
+    116 B1-calibration Head
+    109 WIP Sagittal 3D Accelerated MPRAGE
+    107 WIP Sagittal 3D FLAIR
+    107 ADNI2_GE_3T_15M4_8chb/2
+    106 ADNI2_GE_3T_15M4_8chb/4
+    104 ADNI2_GE_3T_15M4_8chb/5
+    103 Axial Field Mapping
+    100 MPRAGE Repeat
+     96 WIP Axial fcMRI (EYES OPEN)
+     87 Sagittal 3D Accelerated MPRAGE
+     83 Axial fcMRI (EYES OPEN)
+     77 ADNI3_GE_3T_24x
+     75 Axial 3D PASL (Eyes Open)
+     69 ADNI-April25_2013
+     67 ADNI2_GE_3T_23.0w_E_DTI
+     64 ADNI2_GE_3T_16.0_TRM
+     64 * (3.22) ADNI3_Study_Hum
+     62 ADNI4_GE_UHP_20230131
+     61 ADNI2_GE_3T_22.0.
+     60 Sawyer_yesa5f_ADNI3_Basi
+     58 ADNI2_GE_3T_20.1ib1_8chc
+     57 Axial DTI
+     53 ASL PERFUSION-EYES OPEN
+     53 ADNI_GE15T15m4_irfspgr/3
+     51 Sagittal 3D FLAIR (MSV23)
+     51 ASL PERF
+     50 Extended Resting State fMRI
+     45 Sagittal 3D T2 Vista (MSV21)
+     45 ADNI2_GE_3T_22.0_E_DTI.
+     41 ASL
+     40 Accelerated Sagittal MPRAGE Phase A-P
+     39 Sagittal 3D FLAIR phase A-P
+     38 WIP Sagittal 3D Accelerated MPRAGE SENSE
+     38 ADNI_GE15T15m4_irfspgr/4
+     37 WIP Sagittal 3D FLAIR SENSE
+     37 Axial rsfMRI (Eyes Open) -phase P to A
+     35 Sawyer_ADNI2_2011_0825_L
+     35 ADNI   9.1/
+     34 3T ADNI-2 Research Study
+     34 *(3.22) ADNI3_Study_Huma
+     32 JACK ADNI2_GE_3T_15m4_8/
+     31 ADNI GO 3T- patient pro/
+     30 WIP Extended Resting State fMRI
+     30 ADNI 15M3 TSa/5
+     30 ADNI 15M3 TSa/4
+     29 ADNI 15M3 TSa/3
+     29 ADNI 15M3 TSa/2
+     28 WIP Sagittal 3D T2 Vista (MSV21)
+     28 Axial MB dMRI AP (MSV21)
+     27 Axial MB dMRI PA (MSV21)
+     27 ASL PERFUSION(EYES OPEN)
+     27 anonymous
+     27 ADNI2_GE_3T_22.0_DEC2012
+     26 SAG B1 CALIBRATION HEAD
+     26 SAG B1 CALIBRATION BODY
+     26 ADNI2_GE_3T_08182010
+     25 WIP Accelerated Sagittal MPRAGE (MSV21)
+     25 SAG MPRAGE GRAPPA2 NO ANGLE
+     24 WIP Sagittal 3D FLAIR (MSV23)
+     24 SAG MPRAGE NO ANGLE
+     24 Sagittal 3D FLAIR SENSE
+     24 Axial MB rsfMRI (EYES OPEN) (MSV22)
+     24 ASL_PERFUSION_NO ANGLE=
+     24 ADNI 2 - GO/5
+     24 ADNI 111M4 TS/
+     23 WIP Axial fcMRI (EYES OPEN) SENSE
+     23 Sagittal 3D Accelerated MPRAGE SENSE
+     23 SAG 3D MPRAGE
+     23 *Research ADNI3 Basic Hu
+     23 CS Sagittal 3D T2 Vista (MSV24)
+     23 Axial fcMRI (EYES OPEN) SENSE
+     22 MPRAGE GRAPPA 2
+     22 ADNI4_GE_MR750_26x
+     22 ADNI 2 - GO/4
+     22 ADNI 2 - GO/2
+     22 * (3.22) ADNI3_Study_Pha
+     21 REPEAT SAG 3D MP RAGE
+     21 ADNI-FEB14_2013
+     20 WIP Axial Field Mapping CLEAR
+     20 Sawyer_tayj4f_ADNI2_14_0
+     20 ASL PERFUSION____EYES_OPEN
+     20 ADNI2_GE_3T_14m5_8chc/5
+     19 ADNI4_GE_3T_24x_20230210
+     19 ADNI2_GE_3T_22m3_8cha
+     18 ADNI2 Patient 09Nov2011/
+     18 ADNI2_GE_3T_15m4_8chc/5
+     18 ADNI2_GE_3T_14m5_8chc/4
+     18 ADNI2_GE_3T_14m5_8chc/2
+     18 ADNI 12M4 TS/2
+     18 * (3.93) ADNI4
+     17 Axial MB DTI
+     17 Axial Field Mapping 0 angle
+     17 ADNI2_GE_3T_16.0_TRM/5
+     17 ADNI2_GE_3T_15m4_8chc/4
+     17 ADNI2_GE_3T_15m4_8chc/2
+     16 WIP SOURCE - Axial 3D pCASL (Eyes Open)
+     16 Sagittal 3D Accelerated 0 angle MPRAGE SENSE
+     16 Sagittal 3D 0 angle FLAIR SENSE
+     16 Field Mapping CLEAR
+     16 ADNI/4
+     16 ADNI/3
+     16 ADNI 2 Jack/5
+     16 ADNI 2 Jack/4
+     16 ADNI 2 Jack/2
+     16 ADNI2_GE_3T_16.0_TRM/4
+     16 ADNI 1F/2
+     15 WIP Axial MB dMRI PA (MSV21)
+     15 Axial fcMRI 0 angle (EYES OPEN) SENSE
+     15 ADNI2_GE_3T_16.0_TRM/2
+     14 WIP Axial MB rsfMRI (EYES OPEN) (MSV22)
+     14 ADNI_GO
+     14 ADNI/5
+     14 ADNI 3T IRB# 10-007511s/
+     14 ADNI 12M4 TS/4
+     13 WIP Axial MB dMRI AP (MSV21)
+     13 Sagittal 3D FLAIR (MSV23) SENSE
+     13 Sagittal 3D Accelerated MPRAGE (MSV21) SENSE
+     13 Extended Resting State fMRI CLEAR
+     13 ADNI/6
+     13 ADNI2 Patient 09Nov2011
+     13 ADNI2_02282011
+     13 ADNI 12M4 TS/5
+     12 DOD ADNI2_GE_3T_15M4_8c/
+     12 ADNI GO/2
+     12 ADNI_GE15T15m4_irspgr/3
+     12 ADNI-2 Study/5
+     12 ADNI 2 Patient_GE_3T_22.
+     12 ADNI2_2011_0825_Linked
+     12 ADNI
+     11 WIP Field Mapping CLEAR
+     11 WIP Extended Resting State fMRI CLEAR
+     11 Sagittal 3D FLAIR (MSV22) TSE 256
+     11 SAG 3D MPRAGE NO ANGLE
+     11 REPEAT SAG 3D MP RAGE NO ANGLE
+     11 MPRAGE_P2_NO ANGLE=
+     11 Axial MB rsfMRI (Eyes Open)   straight no angle
+     11 Axial MB dMRI P>>A (MSV21)
+     11 Axial MB dMRI A>>P (MSV21)
+     11 ADNI GO/5
+     11 ADNI GO/4
+     11 ADNI_GE15T15m4_irspgr/4
+     10 Sawyer_tayj4f_ADNI2_2013
+     10 Axial DTI (MSV21)
+     10 ADNI-2 Study/4
+     10 ADNI-2 Study/3
+      9 WIP SOURCE - Axial 2D PASL
+      9 Sawyer_Taylor_ADNI2_2013
+      9 MP RAGE SAGITTAL REPEAT
+      9 MPRAGE_ NO ANGLE=
+      9 ADNI 1F/5
+      9 ADNI 1F/4
+      8 WIP MPRAGE CLEAR
+      8 WIP Axial RESTING fcMRI (EYES OPEN) SENSE
+      8 Sawyer_Tayj4f_ADNI2_2014
+      8 MP RAGE SAGITTAL
+      8 CS Sagittal MPRAGE (MSV22)
+      8 Axial MB rsfMRI AP
+      8 Axial Field Mapping straight
+      8 ADNI 12M4 TS/3
+      8 AcceleratedSagittalMPRAGE
+      8 6.) ADNI W PAPERWORK-IR/
+      8 6.) ADNI(w o paperwork)/
+      8 * (3.5) ADNI2_GE_3T_23.0
+      7 RESEARCH: ADNI2 05-06-1/
+      7 MPRAGE SAGITTAL
+      7 ASO-MPRAGE SENSE
+      7 ADNI 15M3 BCa/3
+      7 ADNI 14M4 TS/4
+      6 t2_flair SAG
+      6 Sagittal3DFLAIR
+      6 JACK ADNI-GO 3T patient/
+      6 Axial rsfMRI (Eyes Open) (MSV21)P-A phase enc.
+      6 Axial DTI (MSV21) P-A phase enc.
+      6 ADNI_GE_3.0T_Human_20m3_
+      6 ADNI_GE15T14m5_irfspgr/4
+      6 ADNI_GE15T14m5_irfspgr/3
+      6 ADNI4_GE_MR750W_25x
+      6 ADNI2_GE_3T_20.0m4_8cha7
+      6 ADNI2/5
+      6 ADNI2/4
+      6 ADNI2/2
+      6 ADNI 14M4 TS/5
+      6 ADNI 14M4 TS/3
+      6 ADNI 14M4 BC/2
+      5 WIP Sagittal 3D FLAIR (MSV22)
+      5 WIP MPRAGE_ASO SENSE
+      5 WIP MPRAGE_ASO_repeat SENSE
+      5 MPRAGE_ Sag  - NO ANGLE=
+      5 GOLDMAN NEW 42209/3
+      5 DOD ADNI_GE_3T_15m4_8ch/
+      5 CS Sagittal 3D FLAIR (MSV24)
+      5 ASL PERFUSION EYE OPEN
+      5 ADNI_GE15T15m4_irfspgr/6
+      5 ADNI_GE15T15m4_irfspgr/5
+      5 ADNI_GE15T15m4_irfspgr/2
+      5 ADNI2
+      5 ADNI 1F/3
+      5 ADNI 15M3 TS/2
+      5 ADNI 14M4 TS/2
+      5 ADNI 111M4 BC/
+      5 Accelerated Sagittal MPRAGE REPEAT
+      5 AAAQ9628 Stern ADNI3 QA
+      5 AAAQ9628 Stern ADNI3
+      5 A4_Study_Human_GE_3T_22.
+      4 WIP CS Sagittal MPRAGE (MSV22)
+      4 ***STRICTLY GOLDMAN 6-2/
+      4 Sagittal 3D T2 SPACE MSV21
+      4 Sagittal 3D FLAIR MSV33
+      4 Sagittal 3D Accelerated MPRAGE (MSV21)
+      4 *Research Brewer ERP-Lon
+      4 RESEARCH: ADNI2-GO/5
+      4 RESEARCH: ADNI2-GO/4
+      4 RESEARCH: ADNI2-GO/2
+      4 qa04
+      4 JACK ADNI-2 3T/2
+      4 GOLDMAN NEW 42209/4
+      4 Eisai BAN2401-G000-301 S
+      4 DOD_ADNI_GE_3T_22.0
+      4 DOD ADNI2_GE_3T_15M4_8ch
+      4 Axial rsfMRI (Eyes Open) Phase Direction P>A
+      4 Axial DTI(PhaseAP)
+      4 Axial DTI_AP_Phase
+      4 ADNI_GE15T14m5_irfspgr
+      4 ADNI_DOD GE_3T_22.0
+      4 ADNI-2 /4
+      4 ADNI-2 /3
+      4 ADNI 15M3 BCa/2
+      4 ADNI 14M4 BC/3
+      4 ADNI 12M4TS PATIENT/3
+      4 ADN4-GE_30.1_48CH_202502
+      4 A4_Study_Human_GE_3T_23w
+      4 7.) ADNI W O PAPERWORK-/
+      4 1014768SHSC/2
+      3 Sawyer_Taylor_ADNI2_2012
+      3 Sawyer_Taylor_ADNI2_2011
+      3 SAGITTAL 3D T2 VISTA (MSV21) SENSE
+      3 MPRAGE rpt
+      3 MPRAGE_ASO SENSE
+      3 MPRAGE_ASO_repeat SENSE
+      3 MPRAGE ADNI-GO SENSE
+      3 JACK ADNI-2 3T/5
+      3 JACK ADNI-2 3T/4
+      3 GOLDMAN NEW 42209/5
+      3 GOLDMAN NEW 42209/2
+      3 Axial 3D FLAIR
+      3 ASL_PERFUSION          straight no angle    cover temporal lobes
+      3 ASL PERFUSION-open eyes
+      3 ASL PERFUSION   INSTRUCT PT TO KEEP EYES OPENED
+      3 ADNI-GO Study/5
+      3 ADNI-GO Study/4
+      3 ADNI-GO Study/3
+      3 ADNI-GO/6
+      3 ADNI   9.1/2
+      3 ADNI 4-15-09/5
+      3 ADNI 4-15-09/4
+      3 ADNI 4-15-09/3
+      3 ADNI 4-15-09/2
+      3 ADNI3_Study_Phantom_GE_3
+      3 ADNI 2 Jack/9
+      3 ADNI2_GE_QC_Phantom_3T_2
+      3 ADNI2_GE_3T_16.0_TRM1
+      3 ADNI2_GE_3T_05282010
+      3 ADNI 15M3 TS/5
+      3 ADNI 15M3 TS/4
+      3 ADNI 12M4TS PATIENT/5
+      3 ADNI 12M4TS PATIENT/4
+      3 827/828-ARIA MEMORY CLIN
+      3 7.) ADNI(w  paperwork)/5
+      3 7.) ADNI(w  paperwork)/4
+      3 7.) ADNI(w  paperwork)/3
+      3 7.) ADNI(w  paperwork)/2
+      3 520650SHSC/2
+      3 3T ADNI-2 PHANTOM SCAN
+      3 1251933SHSC/2
+      2 WIP Field Mapping R/L
+      2 ***STRICTLY GOLDMAN 6-21
+      2 R00220/4
+      2 R00219/5
+      2 R00205/5
+      2 R00205/4
+      2 R00205/2
+      2 R00187/5
+      2 R00187/4
+      2 R00187/2
+      2 MPRAGE SAG
+      2 MPRAGE REPEAT ASO SENSE
+      2 MPRAGE_P2_NO ANGLE
+      2 MPRAGE_ NO ANGLE
+      2 MPRAGE ASO SENSE
+      2 Localizer
+      2 JACK ADNI-2 1.5T /4
+      2 JACK ADNI-2 1.5T /3
+      2 Axial rsfMRI (EYES OPEN) (MSV21)
+      2 Axial Field Mapping CLEAR
+      2 Axial DTI (MSV20)
+      2 ASO-MPRAGE 2 SENSE
+      2 ASL PERFUSION repeat
+      2 ASL PERFUSION_eyes open
+      2 ADNI-GO/5
+      2 ADNI-GO/4
+      2 ADNI2_GE_1.5T_Human/4
+      2 ADNI2_GE_1.5T_Human/3
+      2 ADNI_1.5T_GE_23x
+      2 ADNI 15M3 TS/3
+      2 ADNI 15M3/5
+      2 ADNI 15M3/4
+      2 ADNI 15M3/3
+      2 ADNI 15M3/2
+      2 ADNI 12M4TS PATIENT/2
+      2 Accelerated Sagittal MPRAGE repeat
+      2 AAHead_Scout_64ch-head-coil
+      2 20092276/2
+      2 1282069SHSC/3
+      2 1251933SHSC/5
+      2 1251933SHSC/4
+      2 1014768SHSC/5
+      2 1014768SHSC/4
+      1 WIP Sagittal 3D FLAIR_Repeat
+      1 WIP Sagittal 3D Accelerated MPRAGE_REPEAT
+      1 WIP Sagittal 3D Accelerated 0 angle MPRAGE SENSE
+      1 WIP Sagittal 3D 0 angle FLAIR SENSE
+      1 WIP Field Mapping_RL
+      1 WIP Field Mapping_R/L
+      1 WIP Field Mapping RL
+      1 WIP Field Mapping R_L
+      1 WIP Field Mapping_AP
+      1 WIP Field Mapping AP
+      1 WIP CS Sagittal 3D T2 Vista (MSV24)
+      1 WIP Axial Field Mapping 0 angle
+      1 WIP Axial fcMRI (EYES OPEN)_REPEAT
+      1 WIP Axial fcMRI 0 angle (EYES OPEN) SENSE
+      1 VWIP Coronal 3D Accelerated MPRAGE
+      1 T2_FLAIR
+      1 Sagittal 3D Accelerated MPRAGE_REPEAT
+      1 Saggital 3D FLAIR
+      1 SAG B1 CALIBRATION BODY REPEAT
+      1 ROO155/5
+      1 ROO155/4
+      1 ROO155/2
+      1 RESEARCH: DOD ADNI2 GE 3
+      1 RESEARCH: DOD ADNI2 GE /
+      1 RESEARCH ADNI 2/4
+      1 RESEARCH ADNI 2/3
+      1 RES00182/6
+      1 RES00182/5
+      1 RES00182/3
+      1 repeat SAG B1 CALIBRATION BODY
+      1 REPEAT SAG 3D MPRAGE
+      1 REPEAT Accelerated Sagittal MPRAGE
+      1 Repeat_Accelerated Sagittal MPRAGE
+      1 R01357/5
+      1 R01357/4
+      1 R01357/2
+      1 R00444/5
+      1 R00444/4
+      1 R00444/2
+      1 R00409/5
+      1 R00409/4
+      1 R00409/2
+      1 R00408/5
+      1 R00408/4
+      1 R00408/2
+      1 R00334/5
+      1 R00334/4
+      1 R00334/2
+      1 R00323/5
+      1 R00323/2
+      1 R00267/5
+      1 R00267/4
+      1 R00267/2
+      1 R00237/5
+      1 R00237/4
+      1 R00237/2
+      1 R00220/5
+      1 R00220/2
+      1 R00219/4
+      1 R00219/2
+      1 R00182/5
+      1 R00182/4
+      1 R00182/2
+      1 R00157/5
+      1 R00157/4
+      1 R00157/2
+      1 R00155/5
+      1 R00155/4
+      1 R00155/2
+      1 R00154/5
+      1 R00154/4
+      1 R00154/2
+      1 R00152/5
+      1 R00152/4
+      1 R00152/2
+      1 MPRAGE    straight no angle
+      1 MPRAGE Repeat x2
+      1 MPRAGE repeat SENSE
+      1 MPRAGE Repeat rpt
+      1 MPRAGE repeat
+      1 MPRAGE_GRAPPA2          straight no angle
+      1 MPRAGE GRAPPA2 rpt
+      1 JACK ADNI2_GE_3T_15m4_8C
+      1 FLAIR AXIAL 5MM
+      1 FLAIR
+      1 Field Mapping repeat
+      1 epi_2s_resting_state
+      1 DOD ADNI_GE_3T_15m4_8chc
+      1 CORONAL
+      1 cor
+      1 Axial rsfMRI (EYES OPEN)(MSV21)
+      1 Axial rsfMRI (Eyes Open) (MSV21)
+      1 AXIAL RFORMAT 1
+      1 Axial MB rsfMRI (Eyes Open) REPEAT
+      1 Axial MB rsfMRI
+      1 AXIAL FLAIR
+      1 Axial Field Mapping 54 slices
+      1 Axial DTI (MSV21) P-A phase enc
+      1 Axial DTI MSV21
+      1 Axial - Advanced fMRI_64 Channel
+      1 Axial 2D PASL
+      1 ax
+      1 ADNI-RAGE Patient/5
+      1 ADNI-RAGE Patient/4
+      1 ADNI-RAGE Patient/3
+      1 ADNI-RAGE Patient/2
+      1 ADNI GO Study/5
+      1 ADNI GO Study/4
+      1 ADNI GO Study/2
+      1 adni_ge15t15m4_irfspgr/4
+      1 adni_ge15t15m4_irfspgr/3
+      1 ADNI 3T IRB# 10-007511s
+      1 ADNI3 Accelerated MPRAGE
+      1 ADNI3 3D FLAIR
+      1 ADNI 111M4 TS/2
+      1 Accelerated Satittal MPRAGE
+      1 Accelerated Sagittal MPRAGE MSV21
+      1 Accelerated Sagittal MPRAGE L>>R
+      1 520650SHSC/5
+      1 520650SHSC/4
+      1 3D T1 SAG
+      1 3D MPRAGE
+      1 3DFLAIR_AX_REFORMAT
+      1 26419911/5
+      1 26419911/4
+      1 26419911/2
+      1 26396754/5
+      1 26396754/4
+      1 26396754/2
+      1 26030973/5
+      1 26030973/4
+      1 26030973/2
+      1 25410945/5
+      1 25410945/4
+      1 25410945/2
+      1 21602578/5
+      1 21602578/4
+      1 21602578/3
+      1 21602578/2
+      1 20092276/5
+      1 19715614/5
+      1 19715614/4
+      1 19715614/2
+      1 129-S-4422/5
+      1 129-S-4422/4
+      1 129-S-4422/3
+      1 129-S-4287/5
+      1 129-S-4287/4
+      1 129-S-4287/3
+      1 1282069SHSC/5
+      1 1282069SHSC/4
+      1 1251933SHSC/3
+      1 11450236/5
+      1 11450236/4
+      1 11450236/2
+      1 10709676/4
+      1 10709676/3
+      1 10062238/4
+      1 10062238/3
+      1 10060672/4
+      1 10060672/3
+      1 05816400/5
+      1 05816400/4
+      1 05816400/2
+      1 02818706/5
+      1 02818706/4
+      1 02818706/2
