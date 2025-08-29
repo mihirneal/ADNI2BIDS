@@ -431,15 +431,22 @@ class ADNI2BIDSConverter:
                 
                 logger.info(f"  Converting {len(dicom_files)} DICOMs from {modality_dir}/{session_timestamp_dir}")
                 
-                # Run dcm2niix
-                output_filename = f"sub-{bids_subject}_{session_id}_{bids_suffix}"
+                # Check if files with this base name already exist to determine numbering
+                existing_files = list(bids_modality_dir.glob(f"sub-{bids_subject}_{session_id}_{bids_suffix}*.nii.gz"))
+                file_number = len(existing_files) + 1
+                
+                # Create numbered output filename
+                if file_number == 1:
+                    output_filename = f"sub-{bids_subject}_{session_id}_{bids_suffix}_01"
+                else:
+                    output_filename = f"sub-{bids_subject}_{session_id}_{bids_suffix}_{file_number:02d}"
                 
                 cmd = [
                     'dcm2niix',
                     '-z', 'y',           # Compress output
                     '-b', 'y',           # Create BIDS sidecar JSON
                     '-ba', 'n',          # Don't anonymize BIDS
-                    '-f', output_filename,  # Output filename
+                    '-f', output_filename,  # Output filename with number
                     '-o', str(bids_modality_dir),  # Output directory
                     str(dicom_source)    # Input directory
                 ]
